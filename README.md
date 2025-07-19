@@ -17,8 +17,3 @@ TBA
 ### ToDo
 
 - Scroll pesnuk
-
-```
-
-```
-
